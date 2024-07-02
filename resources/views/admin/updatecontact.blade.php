@@ -26,7 +26,7 @@
                                                 <div class="form-group">
                                                     <label class="col-sm-4 control-label">Alamat</label>
                                                     <div class="col-sm-8">
-                                                        <input class="form-control" name="address" id="address"
+                                                        <input type="text" class="form-control" name="address" id="address"
                                                             value="{{ $tampil->alamat_kami }}" required>
                                                     </div>
                                                 </div>
